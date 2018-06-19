@@ -1,3 +1,4 @@
+```
     Network Stuff for my home
 +--------------------------------+
 
@@ -17,4 +18,4 @@
  ProxMox And Friends:
 
  10.1.0.0/16
-
+```
