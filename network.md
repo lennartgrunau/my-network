@@ -17,7 +17,7 @@
 |ProxMox And Friends:               |
 |10.1.0.0/16                        |
 |                                   |
-|Rechner, Phones und Co.:           |
+|Mein Stuff:                        |
 |10.0.3.0/24                        |
 +-----------------------------------+
 
